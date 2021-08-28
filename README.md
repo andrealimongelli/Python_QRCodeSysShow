@@ -3,7 +3,7 @@
 >System information monitor
 ## **How to use it**
 Simply launch the program and monitor your system.
-At the end I'll have also a QRCode with the retrived informations.
+At the end you'll have also a QRCode with the retrived informations.
 ## **Installation**
 You need no installation
 ## **License**
